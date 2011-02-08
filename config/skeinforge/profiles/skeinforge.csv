@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+Name                          	Value
+WindowPosition	0+19
+Open File for Skeinforge	/home/arjan/devel/reprap/models/flute-upright.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False
