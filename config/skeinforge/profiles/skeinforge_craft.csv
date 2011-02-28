@@ -2,7 +2,7 @@ Format is tab separated skeinforge craft settings.
 Name                          	Value
 WindowPosition	0+0
 Open File for Craft	/home/arjan/devel/reprap/replicatorg/replicatorg-0023/skein_engines/skeinforge-35/skeinforge_application/test.stl
-bottom	False
+bottom	True
 carve	False
 chamber	False
 chop	False
@@ -24,7 +24,7 @@ inset	False
 jitter	False
 lash	False
 lift	False
-limit	True
+limit	False
 mill	False
 multiply	False
 oozebane	False
